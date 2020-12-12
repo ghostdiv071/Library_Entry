@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/database/hsqldb.jar" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/daos/AuthorDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/daos/BookDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/daos/DAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/daos/GenreDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/entity/Author.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/entity/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/entity/Entity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/entity/Genre.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/minakov/entity/Publisher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TABLES_CREATION.sql" charset="windows-1251" />
+  </component>
+</project>
